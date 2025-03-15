@@ -1,5 +1,5 @@
 {
-  "homepage": "https://jrmcadam9696.github.io/jm5392/",
+  "homepage": "https://jrmcadam9696.github.io/jm5392",
   "name": "info655-assignment4",
   "private": true,
   "version": "0.0.0",
@@ -11,7 +11,7 @@
     "preview": "vite preview",
     "test": "jest",
     "predeploy": "npm run build",
-    "deploy": "node deploy.js"
+    "deploy": "gh-pages -d build"
   },
   "jest": {
     "transform": {
