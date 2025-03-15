@@ -1,6 +1,6 @@
 
 import React, { useState } from "react";
-//import "./App.css";
+import "./App.css";
 import Playlist from "./Playlist";
 import Status from "./Status";
 import Controls from "./controls";
